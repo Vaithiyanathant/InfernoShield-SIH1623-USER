@@ -6,7 +6,6 @@ Welcome to the *Fire Safety Monitoring System* – an AI-powered platform design
 
 
 Start your fire safety journey today!  
-![Fire Safety Banner](https://link-to-image)
 
 ---
 
